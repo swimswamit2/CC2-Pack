@@ -2,9 +2,10 @@
     "block.lever.click": {
         "sounds": [
             {
-                "name": "assets\/sounds\/Wrappedinmymemory.ogg",
+                "name": "assets\/sounds\/Wrappedinmymemory",
                 "volume": 1.00
             }
         ],
         "replace": true
+
 }
